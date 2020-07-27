@@ -7,3 +7,7 @@
 ```command
 npx create-react-app react app
 ```
+### 3 Goto inside the directory of the reactapp and build it using the following command:
+```command
+npm run build
+```
